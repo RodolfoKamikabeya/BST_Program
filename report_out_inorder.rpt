@@ -1,0 +1,27 @@
+                                   Employee Report                      2021/04/06 10:35:56
+                                               ***In Order***
+     Acct#            Last           First         Date of          Annual      Department             Age           Phone
+                      Name         Initial           Birth          Salary            Code                          Number
+
+         3            Earl            Clue     Set.17,2000      $39,393.90               W              21         850-340-9090
+        99           James            West     Set.23,2001      $34,344.90               R              20         850-534-9033
+       193           Terry           Jones     Jan.20,2019      $34,903.90               V               2         939-903-9303
+       225         Jackson              Al     Apr.20,1994       $9,494.90               D              27         939-300-9393
+       234           Kelly          Mathis     Mar.12,1989      $12,345.90               A              32         895-059-0950
+       277           Harry            Reed     Feb.29,2000      $94,944.90               V              21         938-930-9093
+       278         GoodWin             Jim     Mar.14,1987      $28,292.90               C              34         894-903-9383
+       299            Mary           Smith     Feb.28,2000      $98,349.90               F              21         849-940-9404
+       300            Will          Rogers     Set.20,2000      $39,393.90               Q              21         850-345-9303
+       534           James            East     Set.22,2001      $50,000.03               T              20         850-345-8939
+       758            Mary            East     Set.25,2001      $84,848.89               W              20         850-828-9303
+       785            Mary           South     Set.26,2001      $83,838.89               S              20         850-529-9039
+       788            Mary           North     Set.27,2001      $85,885.98               W              20         850-333-9313
+       799            kkkk            llll     Set.12,1950     $140,000.00               G              71         999-999-9999
+       848           James           North     Set.22,2001      $98,595.90               E              20         850-909-9595
+       871            aaaa            bbbb     Oct.10,1990     $100,000.00               T              30         850-222-2222
+       872            dddd            cccc     Set.12,1985     $153,000.00               D              36         850-333-3333
+       999             fff             ggg     Aug.11,1989   $1,500,000.00               H              32         555-555-5555
+
+Total record read  18
+Total records processed  18
+Total error records  0
